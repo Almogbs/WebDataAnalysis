@@ -1,6 +1,6 @@
 # WebDataAnalysis
 # Computer Vision & Data Analysis - Website Data Analysis
-## Almog Ben-Shaul
+## (20 years old) Almog Ben-Shaul
 ## April 2018
 
 #### Using computer vision model on website images and process the source page to predict the website main subject (e.g for safe purchase)
